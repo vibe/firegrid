@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "ream start",
+    "dev": "ream dev",
+    "build": "ream build"
+  },
+  "dependencies": {
+    "ream": "^3.2.5",
+    "vue-slider-component": "^2.7.1"
+  }
+}

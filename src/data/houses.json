@@ -1,0 +1,66 @@
+[
+    {
+        "id": "23242",
+        "price": "403829",
+        "bedrooms": 3,
+        "baths": "2",
+        "area": "1910",
+        "view": false
+    },
+    {
+        "id": "3234234",
+        "price": "203829",
+        "bedrooms": 3,
+        "baths": "2",
+        "area": "1910",
+        "view": true
+    },
+    {
+        "id": "32121",
+        "price": "103829",
+        "bedrooms": 3,
+        "baths": "2",
+        "area": "1910",
+        "view": false
+    },
+    {
+        "id": "3223490",
+        "price": "903829",
+        "bedrooms": "3",
+        "baths": "3",
+        "area": "1910",
+        "view": true
+    },
+    {
+        "id": "23223423442",
+        "price": "403829",
+        "bedrooms": 3,
+        "baths": "5",
+        "area": "1910",
+        "view": false
+    },
+    {
+        "id": "32ds34234",
+        "price": "403829",
+        "bedrooms": 3,
+        "baths": "9",
+        "area": "1910",
+        "view": false
+    },
+    {
+        "id": "32234121",
+        "price": "403829",
+        "bedrooms": 3,
+        "baths": "2",
+        "area": "1910",
+        "view": false
+    },
+    {
+        "id": "3223423490",
+        "price": "403829",
+        "bedrooms": "3",
+        "baths": "2",
+        "area": "3000",
+        "view": true
+    }
+]
